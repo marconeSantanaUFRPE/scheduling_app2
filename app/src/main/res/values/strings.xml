@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">scheduling_app</string>
+
+
+    <string-array name="StatusArray">
+        <item>Pendente</item>
+        <item>Adiada</item>
+        <item>Concluída</item>
+        <item>Expirada</item>
+        <item>Cancelada</item>
+
+
+    </string-array>
+</resources>
